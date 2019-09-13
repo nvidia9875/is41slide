@@ -1,4 +1,4 @@
----?color=linear-gradient(to left, #56ccf2, #2f80ed)
+---?color=#e49436
 
 IS41　セキュリティ課題発表<br>
 『CFT』<br>
