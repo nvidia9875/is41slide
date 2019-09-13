@@ -3,7 +3,7 @@
 IS41　セキュリティ課題発表<br>
 『CFT』<br>
 チームさかい
----
+---?color=#FDF5E6
 #### 「 CTF 」とは
 - Capture The Flag（旗取りゲーム）の略<br>
 - 情報セキュリティの技術を競う競技・ゲーム<br>
@@ -24,7 +24,7 @@ IS41　セキュリティ課題発表<br>
 <br>
 - 競技時間内の他チームのとのフラグ・解法の共有
 
----
+---?color=#FDF5E6
 #### 主な出題分野
 
 - Reverse engineering |
@@ -35,4 +35,4 @@ IS41　セキュリティ課題発表<br>
 - Cipher |
 - programming |
 
----
+---?color=#FDF5E6
