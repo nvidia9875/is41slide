@@ -27,12 +27,12 @@ IS41　セキュリティ課題発表<br>
 ---?color=#343434 
 #### 主な出題分野
 
-@color[#FF8C00](・Reverse engineering) <br>| 
-@color[#FF8C00](・Network) <br>|
-@color[#FF8C00](・Forensics) <br>|
-@color[#FF8C00](・Pwnable -脆弱性調査- ) <br>|
-@color[#FF8C00](・Web) <br>|
-@color[#FF8C00](・Cipher) <br>|
-@color[#FF8C00](・programming) |
+@color[#FF8C00](・Reverse engineering) <br> 
+@color[#FF8C00](・Network) <br>
+@color[#FF8C00](・Forensics) <br>
+@color[#FF8C00](・Pwnable -脆弱性調査- ) <br>
+@color[#FF8C00](・Web) <br>
+@color[#FF8C00](・Cipher) <br>
+@color[#FF8C00](・programming)
 
 ---?color=#FDF5E6
