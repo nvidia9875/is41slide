@@ -9,7 +9,7 @@ IS41　セキュリティ課題発表<br>
 - 情報セキュリティの技術を競う競技・ゲーム<br>
 - 隠された答え（Flag）をセキュリティスキルを用いて探し、答えをサーバへ送信するクイズ形式が多い
 
-+++
++++?color=#FDF5E6
 
 #### 基本ルール
 <br>
@@ -27,12 +27,12 @@ IS41　セキュリティ課題発表<br>
 ---?color=#343434 
 #### 主な出題分野
 
-- Reverse engineering @color[orange] | 
-- Network |
-- Forensics |
-- Pwnable(脆弱性調査) |
-- Web |
-- Cipher |
-- programming |
+- @color[#FF8C00](Reverse engineering) | 
+- @color[#FF8C00](Network) |
+- @color[#FF8C00](Forensics) |
+- @color[#FF8C00](Pwnable(脆弱性調査)) |
+- @color[#FF8C00](Web) |
+- @color[#FF8C00](Cipher) |
+- @color[#FF8C00](programming) |
 
 ---?color=#FDF5E6
