@@ -27,7 +27,7 @@ IS41　セキュリティ課題発表<br>
 ---?color=#343434 
 #### 主な出題分野
 
-- Reverse engineering | @color[orange]
+- Reverse engineering @color[orange] | 
 - Network |
 - Forensics |
 - Pwnable(脆弱性調査) |
