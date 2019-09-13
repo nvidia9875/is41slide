@@ -1,3 +1,5 @@
+---?color=linear-gradient(to left, #56ccf2, #2f80ed)
+
 IS41　セキュリティ課題発表<br>
 『CFT』<br>
 チームさかい
@@ -31,5 +33,6 @@ IS41　セキュリティ課題発表<br>
 - Pwnable(脆弱性調査) |
 - Web |
 - Cipher |
-- プログラミング |
+- programming |
+
 ---
