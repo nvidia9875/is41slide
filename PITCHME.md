@@ -24,10 +24,10 @@ IS41　セキュリティ課題発表<br>
 <br>
 - 競技時間内の他チームのとのフラグ・解法の共有
 
----?color=#FDF5E6
+---?color=#343434 
 #### 主な出題分野
 
-- Reverse engineering |
+- Reverse engineering | @color[orange]
 - Network |
 - Forensics |
 - Pwnable(脆弱性調査) |
