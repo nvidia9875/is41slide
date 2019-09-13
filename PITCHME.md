@@ -25,11 +25,11 @@ IS41　セキュリティ課題発表<br>
 ---
 #### 主な出題分野
 
-- Reverse engineering
-- Network
-- Forensics
-- Pwnable(脆弱性調査)
-- Web
-- Cipher
-- プログラミング
+- Reverse engineering |
+- Network |
+- Forensics |
+- Pwnable(脆弱性調査) |
+- Web |
+- Cipher |
+- プログラミング |
 ---
