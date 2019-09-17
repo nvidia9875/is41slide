@@ -37,4 +37,11 @@ IS41　セキュリティ課題発表<br><br>
 @color[#FF8C00](・Cipher) <br>
 @color[#FF8C00](・programming)
 
----?color=#FDF5E6
+---?color=#343434 
+#### Forensics
+<br>
+
+@color[#EEE](ログや記録・状態などを詳細に調査し、痕跡や攻撃手法を解明することをいう) <br> 
+
+
+
