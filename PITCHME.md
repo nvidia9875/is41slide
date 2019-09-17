@@ -16,7 +16,6 @@ IS41　セキュリティ課題発表<br><br>
 <br>
 制限時間以内に得点を多く獲得したチームが勝利
 - 制限時間：だいたい12h~48h(大会による)
-- チームメンバー制限 : なし
 - 検索 : オンライン，オフライン問わず可
 
 +++?color=#FDF5E6
@@ -32,7 +31,7 @@ IS41　セキュリティ課題発表<br><br>
 @color[#FF8C00](・Reverse engineering,Binary <br> 
 @color[#FF8C00](・Network) <br>
 @color[#FF8C00](・Forensics) <br>
-@color[#FF8C00](・Pwnable -脆弱性調査- ) <br>
+@color[#FF8C00](・Pwn -脆弱性調査- ) <br>
 @color[#FF8C00](・Web) <br>
 @color[#FF8C00](・Cipher) <br>
 @color[#FF8C00](・programming)
@@ -42,8 +41,7 @@ IS41　セキュリティ課題発表<br><br>
 <br>
 
 @color[#EEE](物理メモリのイメージファイルを解析し，必要な情報を得ること) <br> <br> 
-
-@color[#EEE](例えば犯罪捜査) <br> 
+@color[#EEE](例えば犯罪捜査で) <br> 
 @color[#EEE](●消えたファイルを特定) <br> 
 @color[#EEE](●一部が壊れたデータの復元) <br> 
 @color[#EEE](●ファイルのタイムスタンプを調査) <br> 
@@ -51,8 +49,15 @@ IS41　セキュリティ課題発表<br><br>
 
 
 ---?color=#343434 
-#### Forensics実践♡
+### Pwnable
 <br>
+
+@color[#EEE](プログラムの脆弱性を突いてフラグを獲得する問題) <br> <br> 
+@color[#EEE](どうやって解くの？) <br> 
+@color[#EEE](1,プログラムは配布されるので、手元で解析) <br> 
+@color[#EEE](2,解析結果からファイルへアクセスする処理を行うコードを作成) <br> 
+@color[#EEE](3,実際に攻撃をしてフラグをゲット！) <br> 
+
 
 
 
