@@ -28,8 +28,8 @@ IS41　セキュリティ課題発表<br><br>
 ### 主な出題分野
 <br>
 
-@color[#FF8C00](・Reverse engineering,Binary | <br> 
-@color[#FF8C00](・Network) | <br>
+@color[#FF8C00](・Reverse engineering,Binary) <br> 
+@color[#FF8C00](・Network)<br>
 @color[#FF8C00](・Forensics) <br>
 @color[#FF8C00](・Pwn -脆弱性調査- ) <br>
 @color[#FF8C00](・Web) <br>
@@ -46,8 +46,6 @@ IS41　セキュリティ課題発表<br><br>
 @color[#EEE](● 一部が壊れたデータの復元) <br> 
 @color[#EEE](● ファイルのタイムスタンプを調査) <br> 
 
-
-
 ---?color=#343434 
 ### Pwn
 <br>
@@ -57,7 +55,6 @@ IS41　セキュリティ課題発表<br><br>
 @color[#EEE](1, プログラムは配布されるので、手元で解析) <br> 
 @color[#EEE](2, 解析結果からファイルへアクセスする処理を行うコードを作成) <br> 
 @color[#EEE](3, 実際に攻撃をしてフラグをゲット！) <br> 
-
 
 ---?color=#343434 
 ### 試しに解いてみよう
