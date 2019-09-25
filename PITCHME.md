@@ -90,8 +90,7 @@ drwxr-xr-x@ 19 shunsuke  staff   608B Sep 25 16:23 word
 
 ```
 $ cd word
-$ ls
-➜ ll
+$ ll
 total 256
 drwxr-xr-x@ 3 shunsuke  staff    96B Sep 25 16:23 _rels
 -rw-r--r--@ 1 shunsuke  staff    42K Jan  1  1980 document.xml
@@ -110,15 +109,18 @@ drwxr-xr-x@ 3 shunsuke  staff    96B Sep 25 16:23 media
 -rw-r--r--@ 1 shunsuke  staff    17K Jan  1  1980 stylesWithEffects.xml
 drwxr-xr-x@ 3 shunsuke  staff    96B Sep 25 16:23 theme
 -rw-r--r--@ 1 shunsuke  staff   428B Jan  1  1980 webSettings.xml
+
+
+//これは見つからなかった
+$ grep -r "flag" -i document.xml
+
 ```
 
 ---?color=#343434
 
 ```
 
-//これは見つからない
-$ grep -r "flag" -i document.xml
-//document.xmlに本文の内容が書かれている
-$ grep "fl.*ag" -i document.xml
+![](./assets/image03.png "ksnctf")
+
 
 ```
