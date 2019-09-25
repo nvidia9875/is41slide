@@ -59,6 +59,10 @@ IS41　セキュリティ課題発表<br><br>
 ---?color=#343434 
 ### 試しに解いてみよう
 <br>
+![](./assets/image01 "ksnctf")
+
+---?color=#343434 
+
 ```
 var str1 = 'hello world';
 var flag = true;
