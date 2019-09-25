@@ -110,14 +110,12 @@ drwxr-xr-x@ 3 shunsuke  staff    96B Sep 25 16:23 media
 drwxr-xr-x@ 3 shunsuke  staff    96B Sep 25 16:23 theme
 -rw-r--r--@ 1 shunsuke  staff   428B Jan  1  1980 webSettings.xml
 
-
-//これは見つからなかった
-$ grep -r "flag" -i document.xml
-
 ```
 
 ---?color=#343434
 ```
+document.xml
+
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <w:document xmlns:wpc="http://schemas.microsoft.com/office/word/
 2010/wordprocessingCanvas" xmlns:mc="http://schemas.openxmlformat
