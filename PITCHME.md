@@ -118,9 +118,36 @@ $ grep -r "flag" -i document.xml
 
 ---?color=#343434
 
-```
-
 ![](./assets/image03.png "ksnctf")
 
+---?color=#343434
+
+![](./assets/image04.png "ksnctf")
+
+
+---?color=#343434
 
 ```
+//フラグっぽいぞ〜！？
+FLxAG_NTSCFTTKP5ZDDW
+```
+
+---?color=#343434
+
+![](./assets/image05.png "ksnctf")
+
+---?color=#343434
+
+```
+//FLxAGのxを消してみる
+FLxAG_NTSCFTTKP5ZDDW
+        ↓
+FLAG_NTSCFTTKP5ZDDW
+```
+
+---?color=#343434
+
+![](./assets/image06.png "ksnctf")
+
+---?color=#343434
+
