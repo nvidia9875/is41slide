@@ -64,9 +64,7 @@ IS41　セキュリティ課題発表<br><br>
 
 ---?color=#343434 
 ```python
-
 # first 10-digit prime found in consecutive digits of π
-
 
 import math
 
@@ -76,12 +74,10 @@ def is_prime(n):
     for k in range(2, int(math.sqrt(n)) + 1):
         if n % k == 0:
             return False
-
     return True
 
-pi = "3141592653589793238462643383279502884197169399375105820974 \n  9445923078164062862089986280348253421170679"
+pi = "31415926535897932384626433832795028841971693993751058209749445923078164062862089986280348253421170679"
 x = 0
-
 while(x < 90):
     num = int(pi[x:x+10])
     if(is_prime(num)):
