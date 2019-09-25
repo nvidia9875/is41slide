@@ -138,12 +138,15 @@ able="w14 wp14"><w:body><w:p w:rsidR="00433D93" w:rsidRPr="000E7386"
 ```
 ---?color=#343434
 ```
+//FLと打ったらここらへんが引っかかった
+
 descr="C:\Users\FLxAG_NTSCFTTKP5ZDDW\Documents\paper\P is equal to 
 ```
 ---?color=#343434
 
 ```
 //フラグっぽいぞ〜！？
+
 FLxAG_NTSCFTTKP5ZDDW
 ```
 
@@ -155,8 +158,11 @@ FLxAG_NTSCFTTKP5ZDDW
 
 ```
 //FLxAGのxを消してみる
+
 FLxAG_NTSCFTTKP5ZDDW
+
         ↓
+
 FLAG_NTSCFTTKP5ZDDW
 ```
 
@@ -164,5 +170,4 @@ FLAG_NTSCFTTKP5ZDDW
 
 ![](./assets/image06.png "ksnctf")
 
----?color=#343434
 
