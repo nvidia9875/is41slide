@@ -69,11 +69,11 @@ IS41　セキュリティ課題発表<br><br>
 import math
 
 def is_prime(n):
-    if n == 1: return False
+    if n == 1 
+    : return False
 
     for k in range(2, int(math.sqrt(n)) + 1):
-        if n % k == 0:
-            return False
+        if n % k == 0 : return False
     return True
 
 pi = "31415926535897932384626433832795028841971693993751058209749445923078164062862089986280348253421170679"
