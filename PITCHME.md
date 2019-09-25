@@ -72,5 +72,17 @@ IS41　セキュリティ課題発表<br><br>
 
 ```
 > mv paper.docx paper.zip
-> 
+> mkdir ./ctf
+> unzip paper.zip -d ./ctf
+> cd ctf
+> ls
+
+total 24
+drwxr-xr-x   7 shunsuke  staff   224B Sep 25 16:28 .
+drwx------+ 22 shunsuke  staff   704B Sep 25 18:24 ..
+-rw-r--r--@  1 shunsuke  staff   6.0K Sep 25 16:28 .DS_Store
+-rw-r--r--@  1 shunsuke  staff   2.4K Jan  1  1980 [Content_Types].xml
+drwxr-xr-x@  3 shunsuke  staff    96B Sep 25 16:23 _rels
+drwxr-xr-x@  4 shunsuke  staff   128B Sep 25 16:23 docProps
+drwxr-xr-x@ 19 shunsuke  staff   608B Sep 25 16:23 word
 ```
