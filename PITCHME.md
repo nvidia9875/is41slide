@@ -58,8 +58,8 @@ IS41　セキュリティ課題発表<br><br>
 
 ---?color=#343434 
 ### 試しに解いてみよう
-<br>
 
+---?color=#343434
 ![](./assets/image01.png "ksnctf")
 
 ---?color=#343434 
