@@ -69,8 +69,7 @@ IS41　セキュリティ課題発表<br><br>
 import math
 
 def is_prime(n):
-    if n == 1 
-    : return False
+    if n == 1 : return False
 
     for k in range(2, int(math.sqrt(n)) + 1):
         if n % k == 0 : return False
