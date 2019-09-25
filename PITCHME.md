@@ -71,11 +71,10 @@ IS41　セキュリティ課題発表<br><br>
 ---?color=#343434
 
 ```
-> mv paper.docx paper.zip
-> mkdir ./ctf
-> unzip paper.zip -d ./ctf
-> cd ctf
-> ls
+$ mv paper.docx paper.zip
+$ mkdir ./ctf && unzip paper.zip -d ./ctf
+$ cd ctf
+$ ls
 
 total 24
 drwxr-xr-x   7 shunsuke  staff   224B Sep 25 16:28 .
@@ -85,4 +84,41 @@ drwx------+ 22 shunsuke  staff   704B Sep 25 18:24 ..
 drwxr-xr-x@  3 shunsuke  staff    96B Sep 25 16:23 _rels
 drwxr-xr-x@  4 shunsuke  staff   128B Sep 25 16:23 docProps
 drwxr-xr-x@ 19 shunsuke  staff   608B Sep 25 16:23 word
+```
+
+---?color=#343434
+
+```
+$ cd word
+$ ls
+➜ ll
+total 256
+drwxr-xr-x@ 3 shunsuke  staff    96B Sep 25 16:23 _rels
+-rw-r--r--@ 1 shunsuke  staff    42K Jan  1  1980 document.xml
+-rw-r--r--@ 1 shunsuke  staff   1.4K Jan  1  1980 endnotes.xml
+-rw-r--r--@ 1 shunsuke  staff   2.0K Jan  1  1980 fontTable.xml
+-rw-r--r--@ 1 shunsuke  staff   1.2K Jan  1  1980 footer1.xml
+-rw-r--r--@ 1 shunsuke  staff   1.2K Jan  1  1980 footer2.xml
+-rw-r--r--@ 1 shunsuke  staff   1.2K Jan  1  1980 footer3.xml
+-rw-r--r--@ 1 shunsuke  staff   1.4K Jan  1  1980 footnotes.xml
+-rw-r--r--@ 1 shunsuke  staff   1.2K Jan  1  1980 header1.xml
+-rw-r--r--@ 1 shunsuke  staff   1.2K Jan  1  1980 header2.xml
+-rw-r--r--@ 1 shunsuke  staff   1.2K Jan  1  1980 header3.xml
+drwxr-xr-x@ 3 shunsuke  staff    96B Sep 25 16:23 media
+-rw-r--r--@ 1 shunsuke  staff   3.0K Jan  1  1980 settings.xml
+-rw-r--r--@ 1 shunsuke  staff    16K Jan  1  1980 styles.xml
+-rw-r--r--@ 1 shunsuke  staff    17K Jan  1  1980 stylesWithEffects.xml
+drwxr-xr-x@ 3 shunsuke  staff    96B Sep 25 16:23 theme
+-rw-r--r--@ 1 shunsuke  staff   428B Jan  1  1980 webSettings.xml
+```
+
+---?color=#343434
+
+```
+
+//これは見つからない
+$ grep -r "flag" -i document.xml
+//document.xmlに本文の内容が書かれている
+$ grep "fl.*ag" -i document.xml
+
 ```
