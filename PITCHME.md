@@ -68,3 +68,9 @@ IS41　セキュリティ課題発表<br><br>
 
 ![](./assets/image02.png "ksnctf")
 
+---?color=#343434
+
+```
+> mv paper.docx paper.zip
+> 
+```
